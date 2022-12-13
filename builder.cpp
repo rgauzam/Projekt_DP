@@ -5,6 +5,8 @@
 *   Opracowal Dworak Kamil              *
 *****************************************/
  
+// VER 1.1
+
 #include <stdafx.h>
 #include <iostream>
 #include <string>
